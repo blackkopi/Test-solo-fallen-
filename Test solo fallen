@@ -1,4 +1,4 @@
-voteModifiers({Quarantine = true, Glass = true, ExplodingEnemies = true})
+voteModifiers({Quarantine = true, Committed = true, Glass = true, ExplodingEnemies = true})
 unlockTimeScale()
 cycleTimeScale()
 cycleTimeScale()
